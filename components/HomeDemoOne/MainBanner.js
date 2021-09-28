@@ -12,8 +12,8 @@ const MainBanner = () => {
                             <div className="main-banner-content">
                                 <ScrollAnimation animateIn="fadeInLeft" delay={50} animateOnce={true}>
                                     <div className="tag">
-                                        <img src="/images/edutaps-tag-icon.png" alt="edutaps" />
-                                        # Edutap - an augmented learning app
+                                        <img src="/images/edutaps-tag-icon.png" alt="edutapxr" />
+                                        # Edutapxr - an augmented learning app
                                     </div>
                                 </ScrollAnimation>
 
@@ -22,7 +22,7 @@ const MainBanner = () => {
                                 </ScrollAnimation>
 
                                 <ScrollAnimation animateIn="fadeInLeft" delay={150} animateOnce={true}>
-                                    <p>Edutaps provides an innovative way of learning, bridging the gap between just Learning and Interactive Learning.</p>
+                                    <p>Edutap<sup>xr</sup> provides an innovative way of learning, bridging the gap between just Learning and Interactive Learning.</p>
                                 </ScrollAnimation>
 
                                 <div className="banner-btn">

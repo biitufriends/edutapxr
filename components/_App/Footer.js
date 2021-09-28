@@ -14,11 +14,11 @@ const Footer = () => {
                                 <div className="widget-logo">
                                     <Link href="/">
                                         <a>
-                                            <img src="/images/edutaps-footer-logo.png" alt="edutaps" />
+                                            <img src="/images/edutapxr-logo.png" alt="edutaps" />
                                         </a>
                                     </Link>
                                 </div>
-                                <p>Edutap helps students be more conceptual learners by producing a world-first augmented reality-based complete learning app that’s beautiful to behold and easy to understand.</p>
+                                <p>Edutap<sup>xr</sup> helps students be more conceptual learners by producing a world-first augmented reality-based complete learning app that’s beautiful to behold and easy to understand.</p>
 
                                 <ul className="widget-info">
                                     <li>
@@ -28,12 +28,12 @@ const Footer = () => {
 
                                     <li>
                                         <i className="ri-global-line"></i>
-                                        <a href="mailto:support@edutaps.com">support@edutaps.com</a>
+                                        <a href="mailto:support@edutapxr.com">support@edutapxr.com</a>
                                     </li>
 
                                     <li>
                                         <i className="ri-map-pin-line"></i>
-                                        121 St, Melbourne VIC 3000, Australia
+                                        House No. 338/7, Zone/Ward 01/46, Tilli, Sagar, Madhya Pradesh, India - 470001
                                     </li>
                                 </ul>
                             </div>
@@ -44,21 +44,7 @@ const Footer = () => {
                                 <h3>Quick Link</h3>
 
                                 <ul className="footer-links-list">
-                                    <li>
-                                        <Link href="/services">
-                                            <a>Services</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/case-study">
-                                            <a>Case Study</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/gallery">
-                                            <a>Gallery</a>
-                                        </Link>
-                                    </li>
+                                    
                                     <li>
                                         <Link href="/contact">
                                             <a>Contact</a>
@@ -98,36 +84,12 @@ const Footer = () => {
                                             <a>Team Member</a>
                                         </Link>
                                     </li>
-                                    <li>
-                                        <Link href="/contact">
-                                            <a>Contact</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/services">
-                                            <a>Services</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/faq">
-                                            <a>Faq’s</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/privacy-policy">
-                                            <a>Privacy Policy</a>
-                                        </Link>
-                                    </li>
-                                    <li>
-                                        <Link href="/terms-of-service">
-                                            <a>Terms of Service</a>
-                                        </Link>
-                                    </li>
+                                    
                                 </ul>
                             </div>
                         </div>
 
-                        <div className="col-lg-2 col-sm-6 col-md-6">
+                        {/* <div className="col-lg-2 col-sm-6 col-md-6">
                             <div className="single-footer-widget">
                                 <h3>Services</h3>
 
@@ -169,7 +131,7 @@ const Footer = () => {
                                     </li>
                                 </ul>
                             </div>
-                        </div>
+                        </div> */}
 
                         <div className="col-lg-3 col-sm-12 col-md-6">
                             <div className="single-footer-widget">
@@ -220,7 +182,7 @@ const Footer = () => {
                     <div className="container">
                         <div className="copyright-area-content">
                             <p>
-                                Copyright © {currentYear} Animozione OPC Pvt Ltd. All Rights Reserved by <a href="http://edutaps.com/" target="_blank">Edutaps</a>
+                                Copyright © {currentYear} Animozione OPC Pvt Ltd. All Rights Reserved by <a href="http://edutaps.com/" target="_blank">Edutap<sup>xr</sup></a>
                             </p>
                         </div>
                     </div>

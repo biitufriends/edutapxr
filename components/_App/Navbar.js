@@ -43,7 +43,7 @@ const Navbar = () => {
                         <nav className="navbar navbar-expand-lg navbar-light">
                             <Link href="/">
                                 <a className="navbar-brand">
-                                    <img src="/images/edutaps-footer-logo.png" alt="edutaps" />
+                                    <img src="/images/edutapxr-logo.png" alt="edutapxr" />
                                 </a>
                             </Link>
 
@@ -111,8 +111,8 @@ const Navbar = () => {
                                                     <ul className="dropdown-menu">
                                                        
                                                         <li className="nav-item">
-                                                            <Link href="/events-details" activeClassName="active">
-                                                                <a onClick={toggleNavbar} className="nav-link">Events Details</a>
+                                                            <Link href="/edutapxr-launch-event" activeClassName="active">
+                                                                <a onClick={toggleNavbar} className="nav-link">Edutapxr Launch</a>
                                                             </Link>
                                                         </li>
                                                     </ul>
@@ -211,14 +211,14 @@ const Navbar = () => {
                             <div className="title">
                                 <Link href="/">
                                     <a className="d-inline-block">
-                                        <img src="/images/edutaps-footer-logo.png" alt="edutaps" />
+                                        <img src="/images/edutapxr-logo.png" alt="edutapxr" />
                                     </a>
                                 </Link>
                             </div>
 
                             <div className="sidebar-content">
                                 <h3>About Us</h3>
-                                <p>Edutap helps students be more conceptual learners by producing a world-first augmented reality-based complete learning app that’s beautiful to behold and easy to understand.</p>
+                                <p>Edutap<sup>xr</sup> helps students be more conceptual learners by producing a world-first augmented reality-based complete learning app that’s beautiful to behold and easy to understand.</p>
 
                                 <div className="sidebar-btn">
                                     <Link href="/contact">
@@ -242,12 +242,12 @@ const Navbar = () => {
                                     
                                     <li>
                                         <i className="ri-mail-line"></i> 
-                                        <a href="mailto:support@edutaps.com">support@edutaps.com</a>
+                                        <a href="mailto:support@edutapxr.com">support@edutapxr.com</a>
                                     </li>
 
                                     <li>
                                         <i className="ri-map-pin-line"></i> 
-                                        121 King St, Melbourne VIC <br /> 3000, Australia.
+                                        House No. 338/7, Zone/Ward 01/46, Tilli, Sagar, Madhya Pradesh, India - 470001
                                     </li>
                                 </ul>
                             </div>

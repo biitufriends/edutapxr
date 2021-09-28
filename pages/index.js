@@ -39,7 +39,7 @@ const IndexPage = () => {
             <PopularBlogPost />
 
             <div className="pb-100">
-                <CTA />
+                {/* <CTA /> */}
             </div>
  
             <Footer />

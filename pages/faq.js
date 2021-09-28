@@ -31,43 +31,43 @@ const FAQs = () => {
                             <AccordionItem uuid="a">
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    Why should I use the Edutaps app?
+                                    Why should I use the Edutap<sup>xr</sup> app?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
                                 <AccordionItemPanel>
-                                    <p>Edutaps is a highly engaging and interactive way of learning and education for higher retention of knowledge-making learners ahead of time and competition.</p>
+                                    <p>Edutap<sup>xr</sup> is a highly engaging and interactive way of learning and education for higher retention of knowledge-making learners ahead of time and competition.</p>
                                 </AccordionItemPanel>
                             </AccordionItem>
 
                             <AccordionItem uuid="b">
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    Who can benefit from Edutaps app?
+                                    Who can benefit from Edutap<sup>xr</sup> app?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
                                 <AccordionItemPanel>
-                                    <p>Currently, Edutaps is meant for school-level education from classes 6 to 12 and can benefit them in their learning. However, it has infinite potential in all fields.</p>
+                                    <p>Currently, Edutap<sup>xr</sup> is meant for school-level education from classes 6 to 12 and can benefit them in their learning. However, it has infinite potential in all fields.</p>
                                 </AccordionItemPanel>
                             </AccordionItem>
 
                             <AccordionItem uuid="c">
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    How is Edutaps  different from other e-Learning apps?
+                                    How is Edutap<sup>xr</sup> different from other e-Learning apps?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
                                 <AccordionItemPanel>
-                                    <p>Edutaps is a totally different and innovative concept of learning with highly engaging content in the augmented world.</p>
+                                    <p>Edutap<sup>xr</sup> is a totally different and innovative concept of learning with highly engaging content in the augmented world.</p>
                                 </AccordionItemPanel>
                             </AccordionItem>
 
                             <AccordionItem uuid="d">
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    Does Edutaps app helps apart from tuition and coaching?  
+                                    Does Edutap<sup>xr</sup> app helps apart from tuition and coaching?  
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
@@ -91,12 +91,12 @@ const FAQs = () => {
                             <AccordionItem uuid="f">
                                 <AccordionItemHeading>
                                     <AccordionItemButton>
-                                    where can I get the Edutaps app ?
+                                    where can I get the Edutap<sup>xr</sup> app ?
                                     </AccordionItemButton>
                                 </AccordionItemHeading>
 
                                 <AccordionItemPanel>
-                                    <p>You can download the Edutaps app from Google play store and app store. Even you can get link from product page of our website. </p>
+                                    <p>You can download the Edutaps app from Google play store and App store. Even you can get link from product page of our website. </p>
                                 </AccordionItemPanel>
                             </AccordionItem>
                         </Accordion>
@@ -112,7 +112,7 @@ const FAQs = () => {
 
                         <div className="box-two">
                             <i className="ri-earth-line"></i>
-                            <a href="mailto:support@edutaps.com">support@edutaps.com</a>
+                            <a href="mailto:support@edutaps.com">support@edutapxr.com</a>
                         </div>
                     </div>
                 </div>

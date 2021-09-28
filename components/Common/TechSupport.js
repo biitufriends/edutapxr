@@ -12,7 +12,7 @@ const TechSupport = () => {
 
                         <h3>Your Entire Education Curriculum Connected</h3>
                         <p>Our mission is to help students as well as teachers to achieve excellence in learning and education through a highly engaging and interactive Edutaps App. We developed an augmented app to deliver a once-in-a-lifetime learning experience for higher retention of knowledge to make them ahead of time and ultimately make learners top in their category.</p>
-                        <span>Edutaps -an augmented learning app</span>
+                        <span>Edutap<sup>xr</sup> -an augmented learning app</span>
                     </div>
                 </div>
 

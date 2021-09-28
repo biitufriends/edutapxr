@@ -13,10 +13,10 @@ const EventsDetails = () => {
 			<NavbarFour />
 			
 			<PageBanner 
-                pageTitle="Events Details" 
+                pageTitle="Edutapxr Launch Details" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                activePageText="Events Details"
+                activePageText="Edutapxr Launch Details"
             /> 
 
             <>
@@ -33,14 +33,14 @@ const EventsDetails = () => {
                             <div className="col-lg-8 col-md-12">
                                 <div className="events-details-header">
                                     <ul>
-                                        <li><i className="ri-calendar-line"></i >Wed, 20 May 2021</li>
-                                        <li><i className="ri-map-pin-line"></i> ViCTAria Road, New York, USA</li>
-                                        <li><i className="ri-time-line"></i> 12.00 PM</li>
+                                        <li><i className="ri-calendar-line"></i >Monday, 11 October 2021</li>
+                                        <li><i className="ri-map-pin-line"></i> Online Webinar</li>
+                                        <li><i className="ri-time-line"></i> 15.00 PM</li>
                                     </ul>
                                 </div>
 
                                 <div className="events-details-location">
-                                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.8385385572983!2d144.95358331584498!3d-37.81725074201705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4dd5a05d97%3A0x3e64f855a564844d!2s121%20King%20St%2C%20Melbourne%20VIC%203000%2C%20Australia!5e0!3m2!1sen!2sbd!4v1612419490850!5m2!1sen!2sbd"></iframe>
+                                    
                                 </div>
 
                                 <div className="events-details-desc">
@@ -155,7 +155,7 @@ const EventsDetails = () => {
             <EventSpeakers />
             
             <div className="pb-100">
-                <CTA />
+                {/* <CTA /> */}
             </div>
 
 			<Footer />
